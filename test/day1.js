@@ -1,7 +1,4 @@
-const mocha = require('mocha');
-const expect = require('chai').expect;
-const fs = require('fs');
-const path = require('path');
+/* global expect, fs, path */
 
 const day1 = require('../src/day1');
 
